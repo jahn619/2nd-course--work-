@@ -63,3 +63,9 @@ body {
 .modal-dialog {
     max-width: 635px;
 }
+
+#carouselButtons {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
